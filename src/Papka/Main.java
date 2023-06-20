@@ -1,5 +1,5 @@
 package Papka;
-
+import static Papka.WordsClass.game;
 import static Papka.StringClass.findSymbolOccurrence;
 import static Papka.StringClass.findWordPosition;
 import static Papka.StringClass.arePalindrome;
@@ -15,6 +15,9 @@ public class Main {
         String target ="pollo";
         String revers = "Hello";
         String palindrome = "zxcvbnmmnbvcxz";
+        String[] words = {"apple", "orange", "lemon", "banana", "apricot", "avocado" , "broccoli",
+                "carrot", "cherry", "garlic", "grape", "melon", "leak", "kiwi", "mango", "mushroom",
+                "nut", "olive", "pea", "peanut", "pear", "pepper", "pineapple", "pumpkin", "potato"};
 
         System.out.println("Number of symbol |" + symbol + "| in string |" + string + "| is: "
                 + findSymbolOccurrence(string, symbol) + '\n');
@@ -22,7 +25,7 @@ public class Main {
                 + findWordPosition(target, source) + '\n');
         System.out.println(revers + " is " + stringReverse(revers) + '\n');
         System.out.println(palindrome + " is " + arePalindrome(palindrome) + '\n');
-
+        game(words);
     }
 
 

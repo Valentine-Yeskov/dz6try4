@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c1e532-8157-442d-8aff-6fe83ce10ca9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz6try4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Papka/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Papka/StringClass.java" afterDir="false" />
+    <list default="true" id="93c1e532-8157-442d-8aff-6fe83ce10ca9" name="Changes" comment="add new class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Papka/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Papka/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Papka/WordsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Papka/WordsClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +49,33 @@
       <option name="presentableId" value="Default" />
       <updated>1687084451096</updated>
     </task>
+    <task id="LOCAL-00001" summary="5 tasks commit">
+      <created>1687103501704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687103501704</updated>
+    </task>
+    <task id="LOCAL-00002" summary="5 tasks commit">
+      <created>1687103504949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687103504949</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add new class">
+      <created>1687245567080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687245567080</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="5 tasks commit" />
+    <MESSAGE value="add new class" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new class" />
   </component>
 </project>
